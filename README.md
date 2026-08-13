@@ -28,7 +28,6 @@
 * 📊 Interested in **Statistical Data Analysis, Exploratory Data Analysis & Social Media Analysis**
 * 🧠 Passionate about **AI/ML research, intelligent systems and data-driven solutions**
 * 🎓 Ph.D. from **University School of Information, Communication & Technology (USICT)**
-* 📫 Reach me at **[ankitasharma2711@gmail.com](mailto:ankitasharma2711@gmail.com)**
 
 ---
 
